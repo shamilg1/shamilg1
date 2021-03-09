@@ -1,6 +1,20 @@
 You were taken here most probably because I've mistakenly used the wrong github username name. My apologies!
 
 ### Please open [my profile](https://github.com/sgumirov) instead. Thanks!
+```
+                        /\
+                       /  \
+                      /    \
+                     --------
+                       |  |
+                       |  |
+                       
+                      Click!
+                      
+
+
+LOL: The arrow looks absolutely like an old-time web banners ¯\(°_o)/¯
+```
 
 <!--
 **shamilg1/shamilg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
